@@ -1,0 +1,13 @@
+#langchain
+#langchain_community
+#faiss-cpu
+#tiktoken
+#langchain-google-genai
+#python-dotenv
+#streamlit
+#langchain_experimental
+#sentence-transformers
+#langchain_chroma
+#langchainhub
+#pypdf
+#rapidocr-onnxruntime
