@@ -30,7 +30,7 @@ To run the Recipe Assistant locally, follow these steps:
 
 Clone the repository:
 
-git clone https://github.com/Waseem2212/Recipe-Assistant
+git clone https://github.com/C2pac/Recipe-Assistant-Chatbot
 
 Install the dependencies:
 
