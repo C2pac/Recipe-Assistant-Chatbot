@@ -48,8 +48,11 @@ Project Structure
 
 📦 recipe-assistant
 │
+
 ├── recipe_chatbot.py    # Main application logic
+
 ├── requirements.txt     # Python dependencies
+
 └── README.md            # Project documentation
 
 How It Works
